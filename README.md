@@ -1,92 +1,88 @@
 # Awesome Portugal
 
-Awesome Portugal
+![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-## Getting started
+🇵🇹 A collection of awesome monuments and places to visit Portugal. 🇵🇹
 
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
+- Awesome Portugal 🇵🇹
+  - [Aveiro](#Aveiro)
+  - [Beja](#Beja)
+  - [Braga](#Braga)
+  - [Bragança](#Bragança)
+  - [Castelo Branco](#Castelo-Branco)
+  - [Coimbra](#Coimbra)
+  - [Évora](#Évora)
+  - [Faro](#Faro)
+  - [Guarda](#Guarda)
+  - [Leiria](#Leiria)
+  - [Lisboa](#Lisboa)
+  - [Portalegre](#Portalegre)
+  - [Porto](#Porto)
+  - [Santarém](#Santarém)
+  - [Setúbal](#Setúbal)
+  - [Viana do Castelo](#Viana-do-Castelo)
+  - [Vila Real](#Vila-Real)
+  - [Viseu](#Viseu)
+  - [Açores](#Açores)
+  - [Madeira](#Madeira)
 
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
+## Aveiro
 
-## Add your files
+## Beja
 
-- [ ] [Create](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
-- [ ] [Add files using the command line](https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line) or push an existing Git repository with the following command:
+## Braga
+- [Castelo de Guimarães](https://pacodosduques.gov.pt/monumentos/castelo-de-guimaraes/) - The Castle de Guimarães, is the principal medieval castle in the municipality Guimarães, in the northern region of Portugal.
 
-```
-cd existing_repo
-git remote add origin https://gitlab.com/201flaviosilva/awesome-portugal.git
-git branch -M main
-git push -uf origin main
-```
+## Bragança
 
-## Integrate with your tools
+## Castelo Branco
 
-- [ ] [Set up project integrations](https://gitlab.com/201flaviosilva/awesome-portugal/-/settings/integrations)
+## Coimbra
+- [Ruínas de Conímbriga](http://www.patrimoniocultural.gov.pt/pt/museus-e-monumentos/rede-portuguesa/m/museu-monografico-de-conimbriga/) - Conímbriga is one of the largest Roman settlements excavated in Portugal.
+- [Universidade de Coimbra](https://www.uc.pt/).
 
-## Collaborate with your team
+## Évora
+- [Castelo de Monsaraz ](https://www.visitalentejo.pt/pt/catalogo/o-que-fazer/museus-e-monumentos/castelo-de-monsaraz/) - Its military architecture mixes medieval and 17th-century elements.
+- [Paço Ducal de Vila Viçosa](https://www.cm-vilavicosa.pt/locais/palacio/).
+- [Templo Romano Évora](http://www.cultura-alentejo.pt/).
 
-- [ ] [Invite team members and collaborators](https://docs.gitlab.com/ee/user/project/members/)
-- [ ] [Create a new merge request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html)
-- [ ] [Automatically close issues from merge requests](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#closing-issues-automatically)
-- [ ] [Enable merge request approvals](https://docs.gitlab.com/ee/user/project/merge_requests/approvals/)
-- [ ] [Automatically merge when pipeline succeeds](https://docs.gitlab.com/ee/user/project/merge_requests/merge_when_pipeline_succeeds.html)
+## Faro
+- [Fortaleza de Sagres](http://www.monumentosdoalgarve.pt/pt/monumentos-do-algarve/fortaleza-de-sagres).
 
-## Test and Deploy
+## Guarda
 
-Use the built-in continuous integration in GitLab.
+## Leiria
+- [Castelo de Óbidos](http://www.monumentos.gov.pt/site/app_pagesuser/sipa.aspx?id=3324) - The Castle of Obidos is a medieval castle in the municipality of Obidos, in the northern region of Portugal.
+- [Mosteiro de Alcobaça](http://www.mosteiroalcobaca.gov.pt/pt/index.php) - It is the first fully Gothic work built in Portugal, having its construction started in 1178 by the monks of the Cistercian Order.
+- [Mosteiro da Batalha](http://www.mosteirobatalha.gov.pt/pt/index.php) - It was built in 1386 by King João I of Portugal in gratitude to the Virgin Mary for the victory over her Castilian rivals in the battle of Aljubarrota.
 
-- [ ] [Get started with GitLab CI/CD](https://docs.gitlab.com/ee/ci/quick_start/index.html)
-- [ ] [Analyze your code for known vulnerabilities with Static Application Security Testing(SAST)](https://docs.gitlab.com/ee/user/application_security/sast/)
-- [ ] [Deploy to Kubernetes, Amazon EC2, or Amazon ECS using Auto Deploy](https://docs.gitlab.com/ee/topics/autodevops/requirements.html)
-- [ ] [Use pull-based deployments for improved Kubernetes management](https://docs.gitlab.com/ee/user/clusters/agent/)
-- [ ] [Set up protected environments](https://docs.gitlab.com/ee/ci/environments/protected_environments.html)
+## Lisboa
+- [Mosteiro dos Jerónimos](http://www.patrimoniocultural.gov.pt/pt/museus-e-monumentos/dgpc/m/mosteiro-dos-jeronimos/) - It is a Portuguese monastery, built at the end of the 15th century by King Manuel I and was entrusted to the Order of São Jerónimo.
+- [Palácio da Pena](https://www.parquesdesintra.pt/pt/parques-monumentos/parque-e-palacio-nacional-da-pena/) - It represents one of the main expressions of 19th century architectural Romanticism in the world.
+- [Palácio Nacional de Mafra](http://www.palaciomafra.gov.pt/).
+- [Palácio Nacional de Queluz](https://www.parquesdesintra.pt/pt/parques-monumentos/palacio-nacional-e-jardins-de-queluz/).
+- [Torre de Belém](http://www.patrimoniocultural.gov.pt/pt/museus-e-monumentos/dgpc/m/torre-de-belem/) - Is a fort located in the parish of Belém,.
 
-***
+## Portalegre
+- [Castelo de Marvão](http://www.cm-marvao.pt/pt/museus/castelo).
 
-# Editing this README
+## Porto
+- [Igreja de São Francisco](http://ordemsaofrancisco.pt/museu.php?PHPSESSID=8e257be3d4823bae0c6554510ea76ab6).
+- [Igreja e Torre dos Clérigos](http://www.torredosclerigos.pt/pt/).
 
-When you're ready to make this README your own, just edit this file and use the handy template below (or feel free to structure it however you want - this is just a starting point!).  Thank you to [makeareadme.com](https://www.makeareadme.com/) for this template.
+## Santarém
+- [Castelo de Almourol](http://welcome-to.pt/turismo/castelo-de-almourol-2/) - It constitutes one of the most representative examples of military architecture at the time (1171), simultaneously evoking the beginnings of the kingdom of Portugal and the Order of the Templars.
+- [Convento de Cristo](http://www.conventocristo.gov.pt/pt/index.php) - The beginning of its construction dates back to 1160 and is closely linked to the beginnings of the Kingdom of Portugal and the role played by the Order of the Templars at that time.
 
-## Suggestions for a good README
-Every project is different, so consider which of these sections apply to yours. The sections used in the template are suggestions for most open source projects. Also keep in mind that while a README can be too long and detailed, too long is better than too short. If you think your README is too long, consider utilizing another form of documentation rather than cutting out information.
+## Setúbal
 
-## Name
-Choose a self-explaining name for your project.
+## Viana do Castelo
 
-## Description
-Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
+## Vila Real
+- [Palácio de Mateus](http://www.casademateus.com/).
 
-## Badges
-On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
+## Viseu
 
-## Visuals
-Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
+## Açores
 
-## Installation
-Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
-
-## Usage
-Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
-
-## Support
-Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
-
-## Roadmap
-If you have ideas for releases in the future, it is a good idea to list them in the README.
-
-## Contributing
-State if you are open to contributions and what your requirements are for accepting them.
-
-For people who want to make changes to your project, it's helpful to have some documentation on how to get started. Perhaps there is a script that they should run or some environment variables that they need to set. Make these steps explicit. These instructions could also be useful to your future self.
-
-You can also document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. Having instructions for running tests is especially helpful if it requires external setup, such as starting a Selenium server for testing in a browser.
-
-## Authors and acknowledgment
-Show your appreciation to those who have contributed to the project.
-
-## License
-For open source projects, say how it is licensed.
-
-## Project status
-If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
+## Madeira
